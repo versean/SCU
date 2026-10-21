@@ -11,8 +11,8 @@
 UseLDRB:
         //Implementation
         .rept 512
-        LDRB    R2,[R1],1
-        STRB    R2,[R0],1
+        LDRB    R2,[R1],#1
+        STRB    R2,[R0],#1
         .endr
         BX      LR
 
@@ -24,8 +24,8 @@ UseLDRB:
 UseLDRH:
         //Implementation
         .rept 256
-        LDRH    R2,[R1],2
-        STRH    R2,[R0],2
+        LDRH    R2,[R1],#2
+        STRH    R2,[R0],#2
         .endr
         BX      LR
 
@@ -37,8 +37,8 @@ UseLDRH:
 UseLDR:
         //Implementation
         .rept 128
-        LDR     R2,[R1],4
-        STR     R2,[R0],4
+        LDR     R2,[R1],#4
+        STR     R2,[R0],#4
         .endr
         BX      LR
 
@@ -50,8 +50,8 @@ UseLDR:
 UseLDRD:
 	//Implementation
         .rept 64
-        LDRD    R2,R3,[R1],8
-        STRD    R2,R3,[R0],8
+        LDRD    R2,R3,[R1],#8
+        STRD    R2,R3,[R0],#8
         .endr
         BX      LR
 
