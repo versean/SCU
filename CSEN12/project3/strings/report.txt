@@ -1,0 +1,30 @@
+Author: Sean Cajigal
+
+unique
+------
+                              unsorted      sorted    hashing (strings)
+GreenEggsAndHam.txt             0.0043      0.0027    0.0043
+Macbeth.txt                     0.0543      0.0097    0.0080
+Genesis.txt                     0.0443      0.0100    0.0110
+HoundOfTheBaskervilles.txt      0.1127      0.0240    0.0113
+TheWarOfTheWorlds.txt           0.1577      0.0293    0.0167
+TreasureIsland.txt              0.1433      0.0263    0.0113
+TheSecretGarden.txt             0.1440      0.0230    0.0217
+TwentyThousandLeagues.txt       0.3237      0.0473    0.0260
+TheCountOfMonteCristo.txt       1.5380      0.1760    0.0443
+Bible.txt                       1.6467      0.1637    0.0603
+
+
+parity
+------
+                              unsorted      sorted    hashing (strings)
+GreenEggsAndHam.txt             0.0080      0.0020    0.0037
+Macbeth.txt                     0.1463      0.0283    0.0113
+Genesis.txt                     0.1720      0.0327    0.0157
+HoundOfTheBaskervilles.txt      0.7190      0.1107    0.0197
+TheWarOfTheWorlds.txt           0.7977      0.1280    0.0177
+TreasureIsland.txt              0.8053      0.1337    0.0143
+TheSecretGarden.txt             0.7240      0.1327    0.0237
+TwentyThousandLeagues.txt       1.9493      0.2700    0.0213
+TheCountOfMonteCristo.txt       20.8387     2.1203    0.0903
+Bible.txt                       20.5213     2.0770    0.1027

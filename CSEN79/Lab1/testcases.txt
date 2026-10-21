@@ -1,0 +1,72 @@
++ postive
+- negative
+| boundary
+
+1.cpp
+
+    To input, type in your input into the terminal once the program has started (after "Please type something:").
+    The program will output what you inputted plus telling you how many alphanumeric characters and non-alphanumeric characters there were in the input.
+
+    +
+        INPUT "Sean Cajigal"
+        OUTPUTS "Sean Cajigal" has 11 alphanumeric characters and 0 non-alphanumeric characters.
+    +
+        INPUT "...????    hello !!!!"
+        OUTPUTS "...????    hello !!!!" has 5 alphanumeric characters and 11 non-alphanumeric characters.
+    - No fail test case
+    - No fail test case
+    |
+        INPUT "qwertyuiopasdfghjklzxcvbnm!@#$%^&*()1234567890{}|}{|}{":":<>?<>?;;;'';,.//..,[\]\][\][\](_)(*&%^&%#^"
+        OUTPUTS "qwertyuiopasdfghjklzxcvbnm!@#$%^&*()1234567890{}|}{|}{":":<>?<>?;;;'';,.//..,[\]\][\][\](_)(    *&%^&%#^" has 36 alphanumeric characters and 64 non-alphanumeric characters.
+    |
+        INPUT "                                                                                                                !!!"
+        OUTPUTS "                                                                                                                !!!" has 0 alphanumeric characters and 3 non-alphanumeric characters.
+
+2.cpp
+
+    To input, type in your input into the terminal once the program has started (after "Please type a string of 10 digits (0 to 9) with no space").
+    The program will output a pattern of the 10 inputted digits (original and reverse).
+
+    +
+        INPUT "1234567890"
+        OUTPUTS   1234567890          0987654321
+                    1234567890            0987654321
+                      1234567890              0987654321
+                        1234567890                0987654321
+                          1234567890                  0987654321      
+    +
+        INPUT "0123456789"
+        OUTPUTS    0123456789          9876543210
+                     0123456789            9876543210
+                       0123456789              9876543210
+                         0123456789                9876543210
+                           0123456789                  9876543210        
+    - No fail test case
+    - No fail test case
+    | No boundary test case
+    | No boundary test case
+
+3.cpp
+
+    To input, pass one filename argument after ./a.out (a.out or whatever you named the compiled file).
+    It should output a list of all the words that have a length greater than or equal to 10.
+
+    - No fail test case
+    - No fail test case
+    |
+        INPUT ./a.out GettysburgAddress.txt
+        OUTPUTS PROPOSITION
+                BATTLEFIELD
+                ALTOGETHER
+                CONSECRATE
+                CONSECRATED
+                UNFINISHED
+                GOVERNMENT
+    |   INPUT ./a.out sidenoteonmyphotographywebsite.txt
+        OUTPUTS MENTIONING
+                APPRECIATE
+                PHOTOGRAPHERSVIDEOGRAPHERS
+                PARTICULAR
+                PHOTOVIDEO
+                INDIVIDUALLY
+                QUESTIONSREQUEST

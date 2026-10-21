@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "set.h": "c",
+        "limits": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "type_traits": "c"
+    }
+}
