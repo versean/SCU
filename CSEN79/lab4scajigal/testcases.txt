@@ -1,0 +1,58 @@
+Input: ./rosterptrtest < <txt_file>, where txt_file has a list of commands A/X/L
+A is as follows: A <PersonID> <FirstName> <LastName>
+A is as follows: X <PersonID>
+L is as follows: L
+
+Outputs: When delete command was called and list command was called
+
+The list command (L) will output something like this:
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 06184953, Name: Israel Seay
+3: ID: 05206281, Name: Maryam Whittaker
+4: ID: 04445543, Name: Bruno Haddad
+5: ID: 05214769, Name: Armani Lindberg
+6: ID: 04789469, Name: Jaslyn Hoover
+7: ID: 04231027, Name: Andres Ratcliff
+8: ID: 07337401, Name: Stephen Corbin
+9: ID: 03846009, Name: Matilda Finney
+10: ID: 05605535, Name: Issac Lemons
+11: ID: 07515575, Name: Oliver Muniz
+12: ID: 06983035, Name: Issac Wyatt
+13: ID: 04352812, Name: Eve Elam
+14: ID: 07487480, Name: Brody Odell
+15: ID: 06002675, Name: Jordan Rowe
+16: ID: 03515951, Name: Samiya Purcell
+17: ID: 05155225, Name: Hendy Winslow
+18: ID: 05940738, Name: Ismael Grogan
+19: ID: 05659490, Name: Milan Goddard
+20: ID: 04301631, Name: Jair Smallwood
+21: ID: 06407728, Name: Hayden Doss
+22: ID: 04337681, Name: Izaiah Vick
+23: ID: 06206360, Name: Tiffany Guy
+24: ID: 07680334, Name: Khaleesi Brewster
+25: ID: 05767266, Name: Kailyn Vines
+26: ID: 06037934, Name: Dilan Hail
+27: ID: 03483598, Name: Sonny Nadeau
+28: ID: 04980786, Name: Asher Alston
+29: ID: 03281091, Name: Malaysia Burke
+30: ID: 05160499, Name: Maximus Santillan
+31: ID: 07080394, Name: Annie Neely
+32: ID: 06781220, Name: Moussa Holcomb
+33: ID: 03434649, Name: Addison Chavez
+34: ID: 06057966, Name: Idy Pantoja
+35: ID: 07490441, Name: Ace Mcgregor
+36: ID: 04138564, Name: Zachariah Gruber
+37: ID: 07692938, Name: Parizoda Olverac
+
+POSITIVE CASE: ./rosterptrtest < lab3sampleinput.txt (normal output)
+
+POSITIVE CASE: ./rosterptrtest < lab4moreinput.txt (normal output)
+
+NEGATIVE CASE: ./rosterptrtest < lab4negative.txt (will output "26: ID: 06666666, Name: throwingofftheprogramshouldmissthenextlistcommandandtakeitaslastname L" as one of the people because the input file did not follow the right format)
+
+NEGATIVE CASE: ./rosterptrtest < lab4negative2.txt (will output nothing because format isn't followed again)
+
+BOUNDARY CASE: ./rosterptrtest < lab4nothing.txt (will output an empty roster)
+
+BOUNDARY CASE: ./rosterptrtest < lab4everything.txt (normal output, just a lot)

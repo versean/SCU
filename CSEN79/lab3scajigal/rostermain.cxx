@@ -25,14 +25,19 @@ int main() {
 
 	// Read cmd first, then branch accordingly
 	while (cin >> cmd) {
+		
 		switch (cmd[0]) {
 		case Command::Add:
 			// Insert a record
 			// STUDENT WORK
+			cin >> id >> first >> last;
+			r.insert(Person(id, first, last));
 			break;
 		case Command::Erase:
 			// remove a record, given the ID
 			// STUDENT WORK
+			cin >> id;
+			r.erase(id);
 			break;
 		case Command::Print:
 			// listing the entire roster with a rudimentary iterator

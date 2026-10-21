@@ -1,0 +1,947 @@
+A 5831947 Priya Nakamura
+A 2947381 Felix Okonkwo
+A 9182736 Lucia Ferreira
+A 3746251 Damien Holloway
+A 8561029 Yuki Tanaka
+L
+A 4920817 Celeste Dupont
+A 7364850 Rajan Mehta
+X 5831947
+A 5018293 Ingrid Solberg
+L
+X 9182736
+A 6273041 Marcus Webb
+A 3891475 Thalia Osei
+X 3746251
+A 7502836 Kieran Frost
+A 4163729 Amara Diallo
+L
+X 8561029
+X 4920817
+A 9047382 Soren Lindqvist
+A 2584610 Valentina Cruz
+L
+A 6819203 Tobias Eckhardt
+X 7364850
+A 3072946 Nadia Petrov
+A 5438167 Elias Mbeki
+X 2947381
+L
+A 8203574 Sienna Calloway
+A 4756928 Omar Rashid
+X 6273041
+A 7139045 Freya Holt
+L
+X 5018293
+A 2968413 Cyrus Tavares
+A 5824706 Imani Sutton
+X 3891475
+A 6401839 Hugo Villarreal
+L
+A 3517264 Anika Johansson
+X 9047382
+A 9230185 Luca Bianchi
+A 4082637 Zara Ashford
+X 7502836
+L
+A 7645920 Brennan Tully
+X 6819203
+A 5391074 Mina Hadley
+A 8716432 Raphael Guerrero
+L
+X 4163729
+A 3264508 Skye Delacroix
+X 2584610
+A 6958301 Winston Okafor
+A 4539862 Darya Morozova
+L
+X 8203574
+A 7823046 Caio Almeida
+X 5438167
+A 2741593 Hana Kimura
+A 5067284 Leandro Vega
+L
+X 4756928
+A 9384710 Astrid Magnusson
+A 6130495 Josiah Pennington
+X 7139045
+L
+A 1847293 Theo Whitfield
+X 3072946
+A 3195067 Camille Bouchard
+X 5824706
+A 7048293 Idris Saleh
+L
+X 6401839
+A 5612840 Rowan Prescott
+A 4387156 Yara Mensah
+X 9230185
+A 6759302 Mateo Sandoval
+L
+X 3517264
+A 9103847 Elin Bergstrom
+X 2968413
+A 2836490 Kofi Asante
+A 5470128 Miriam Callahan
+L
+X 7645920
+A 7921635 Deven Sharma
+X 4082637
+A 4064719 Paloma Reyes
+X 6958301
+L
+A 8537046 Nikolai Volkov
+A 3782501 Sasha Brennan
+X 5391074
+A 6215873 Omotola Adeyemi
+L
+X 8716432
+A 5948302 Julian Croft
+X 4539862
+A 4103968 Wren Davenport
+A 7360214 Ariel Fonseca
+L
+X 3264508
+X 7823046
+A 8824501 Rashida Owens
+A 2193847 Piotr Zawadzki
+L
+X 2741593
+A 6047291 Yuna Choi
+X 5067284
+A 3819204 Emeka Nwosu
+L
+X 9384710
+A 5203948 Vesna Horvat
+X 6130495
+A 7483920 Tae-yang Kwon
+A 4729103 Soraya Vidal
+L
+X 1847293
+A 8304712 Leila Nazari
+X 3195067
+A 2049817 Stellan Borg
+L
+X 7048293
+A 6318274 Nia Ofosu
+X 5612840
+A 9027364 Bastian Schulz
+A 4871029 Chisom Eze
+L
+X 4387156
+X 6759302
+A 3049281 Reva Iyer
+A 7182930 Declan Rafferty
+L
+X 9103847
+A 5739201 Zinnia Holt
+X 2836490
+A 8492031 Tomasz Wisnewski
+L
+X 5470128
+A 6103849 Asel Nurlanovna
+X 7921635
+A 2847193 Finnegan Burke
+A 9310482 Linh Pham
+L
+X 4064719
+A 4028371 Zeynep Arslan
+X 8537046
+A 7193820 Kwame Asare
+L
+X 3782501
+A 5049281 Dagny Eriksen
+X 6215873
+A 8372910 Onyeka Ibe
+A 3918204 Salma Haidari
+L
+X 5948302
+A 6204817 Jesper Lindgren
+X 4103968
+A 1938472 Tanvir Ahmed
+L
+X 7360214
+A 4819203 Xiomara Reyes
+X 8824501
+A 7302948 Obinna Chukwu
+A 5183920 Petra Kovacs
+L
+X 2193847
+A 8049271 Saoirse Gallagher
+X 6047291
+A 3729104 Bintou Diallo
+L
+X 3819204
+A 6481029 Nils Stromberg
+X 5203948
+A 9204817 Ingeborg Hauge
+A 4038291 Tariq Farouk
+L
+X 7483920
+X 4729103
+A 2819304 Esperanza Luna
+A 7104928 Riku Makinen
+L
+X 8304712
+A 5920381 Adaeze Obi
+X 2049817
+A 3847201 Sven Dahl
+L
+X 6318274
+A 8203947 Yewande Adebisi
+X 9027364
+A 4192038 Cormac Doyle
+A 6039281 Malia Fonoti
+L
+X 4871029
+X 3049281
+A 9183047 Kestrel Amara
+A 2047391 Vilma Sandberg
+L
+X 7182930
+A 5839201 Ryo Fujimoto
+X 5739201
+A 7049382 Amaka Uchenna
+L
+X 8492031
+A 4920138 Bjorn Haugen
+X 6103849
+A 3081947 Celestine Uwu
+A 8374910 Daan Vermeer
+L
+X 2847193
+A 5019283 Leilani Kahale
+X 9310482
+A 7839201 Sergei Volkov
+L
+X 4028371
+A 3948201 Chidinma Eze
+X 7193820
+A 6029481 Pilar Castillo
+A 9104837 Mikael Strand
+L
+X 5049281
+X 8372910
+A 4819302 Yoshi Nakagawa
+A 2039481 Fatou Sow
+L
+X 3918204
+A 7291038 Lotte Andersen
+X 6204817
+A 5038291 Arjun Bose
+L
+X 1938472
+A 8291047 Nkechi Okonkwo
+X 4819203
+A 3049182 Tomas Novak
+A 6819304 Aiko Yamamoto
+L
+X 7302948
+A 4920381 Babatunde Osei
+X 5183920
+A 9038471 Frida Larsen
+L
+X 8049271
+A 2948103 Zephyr Oduya
+X 3729104
+A 7193048 Laila Ahmadi
+A 5048291 Edvard Moen
+L
+X 6481029
+X 9204817
+A 3829104 Chiamaka Nze
+A 8049271 Rowan Callister
+L
+X 4038291
+A 6193820 Thiago Carvalho
+X 2819304
+A 4038291 Malin Gustafsson
+L
+X 7104928
+A 9182047 Kolade Adewale
+X 5920381
+A 2049381 Zuzanna Kowalski
+A 7038291 Hira Baig
+L
+X 3847201
+X 8203947
+A 5819304 Nneka Obi
+A 4038192 Cian Murphy
+L
+X 4192038
+A 8293047 Yelena Sorokina
+X 6039281
+A 3048192 Tariku Bekele
+L
+X 9183047
+A 6029183 Sigrid Olsen
+X 2047391
+A 7048291 Olamide Adeyemi
+A 5948201 Remy Boucher
+L
+X 5839201
+X 7049382
+A 4029381 Miroslava Novak
+A 9038201 Emre Demir
+L
+X 4920138
+A 2948301 Suki Hayashi
+X 3081947
+A 6048291 Tendai Moyo
+L
+X 8374910
+A 4819203 Cillian Walsh
+X 5019283
+A 7938201 Adwoa Mensah
+A 3048291 Pavan Kumar
+L
+X 7839201
+X 3948201
+A 9048201 Ylva Bjork
+A 5038192 Ekene Okafor
+L
+X 6029481
+A 2938401 Lior Ben-David
+X 9104837
+A 7048391 Gunnhild Voss
+L
+X 4819302
+A 6038291 Aminu Garba
+X 2039481
+A 8048291 Soledad Reyes
+A 4938201 Takoda Swiftwind
+L
+X 7291038
+X 5038291
+A 3048201 Veronika Blum
+A 9038102 Chukwuemeka Eze
+L
+X 8291047
+A 5948301 Astou Ndiaye
+X 3049182
+A 7038192 Ikaika Kahananui
+L
+X 6819304
+A 4938102 Nuray Yildiz
+X 4920381
+A 2048391 Gavin Achebe
+A 6938201 Katja Nieminen
+L
+X 9038471
+X 2948103
+A 8038291 Oluwafemi Adebayo
+A 3938201 Saoirse Flanagan
+L
+X 7193048
+A 5038301 Batu Enkhbold
+X 5048291
+A 9938201 Ximena Paredes
+L
+X 3829104
+A 4038102 Luka Petrovic
+X 8049271
+A 7948201 Amara Sesay
+A 2038391 Haruto Ito
+L
+X 6193820
+X 4038291
+A 5948102 Olenna Marchetti
+A 8938201 Finn Jacobsen
+L
+X 9182047
+A 3038291 Zainab Musa
+X 2049381
+A 6948201 Yolanda Ferrer
+L
+X 7038291
+A 4038301 Emeka Obiora
+X 5819304
+A 9048102 Helga Sigurdsson
+A 1938201 Dayo Abiodun
+L
+X 4038192
+X 8293047
+A 7038301 Selin Arslan
+A 3948102 Lerato Dlamini
+L
+X 3048192
+A 5038401 Amir Khalil
+X 6029183
+A 8048102 Nadia Wojcik
+L
+X 7048291
+A 4948201 Silas Odhiambo
+X 5948201
+A 2038301 Ingrid Thorvaldsen
+A 6038102 Babajide Oladele
+L
+X 4029381
+X 9038201
+A 9948201 Mei-Ling Zhou
+A 3038192 Viktor Kozlov
+L
+X 2948301
+A 7938102 Adanna Igwe
+X 6048291
+A 5048102 Rasmus Vestergaard
+L
+X 4819203
+X 7938201
+A 8038192 Oluwakemi Adeola
+A 1948201 Tenzin Dorje
+L
+X 3048291
+A 6038301 Yael Shapiro
+X 9048201
+A 4948102 Chinyere Obi
+L
+X 5038192
+A 2938301 Leif Eriksson
+X 2938401
+A 7038102 Adaora Okonkwo
+A 9038301 Miriam Osei
+L
+X 7048391
+X 6038291
+A 3948201 Soren Magnusson
+A 5948302 Halima Traore
+L
+X 8048291
+A 4038401 Emiliano Vargas
+X 4938201
+A 6038192 Nneoma Eze
+L
+X 2048391
+A 8038102 Takeshi Yamada
+X 6938201
+A 1038291 Adaeze Nwosu
+A 7948102 Oksana Kovalenko
+L
+X 8038291
+X 3938201
+A 5038202 Kwabena Asante
+A 9948102 Sigrun Bjornsson
+L
+X 5038301
+A 3048102 Fatimah Oladipo
+X 9938201
+A 6948102 Aleksandr Sokolov
+L
+X 4038102
+A 2048201 Amaka Obi
+X 7948201
+A 8948201 Nils Petersen
+A 4948301 Chiamaka Okafor
+L
+X 2038301
+X 6038102
+A 7038202 Liisa Virtanen
+A 3048302 Obiageli Nze
+L
+X 9948201
+A 5948202 Emeka Chukwu
+X 3038192
+A 1948102 Yusuf Abubakar
+L
+X 7938102
+A 6048102 Annika Carlsson
+X 5048102
+A 4038202 Taiwo Adebisi
+A 8038302 Zoe Papadopoulos
+L
+X 8038192
+X 1948201
+A 9038202 Chukwuma Obi
+A 2948202 Ingeborg Sorensen
+L
+X 6038301
+A 7048102 Adaeze Eze
+X 4948102
+A 5038102 Emeka Nze
+L
+X 2938301
+A 3948302 Kwame Boateng
+X 7038102
+A 6938102 Miroslava Kolar
+A 4948202 Babatunde Adeyemi
+L
+X 9038301
+X 3948201
+A 8948102 Siobhan Brennan
+A 1038192 Toshiro Watanabe
+L
+X 5948302
+A 7948302 Adanna Obi
+X 4038401
+A 2048102 Nikoleta Georgiou
+L
+X 6948102
+A 9948302 Emeka Eze
+X 6938201
+A 3048202 Freyr Sigursson
+A 5048202 Ngozi Okonkwo
+L
+X 8948201
+X 4948301
+A 6048202 Alejandro Ruiz
+A 1948302 Yuki Kobayashi
+L
+X 7038202
+A 4048102 Chibueze Obi
+X 3048102
+A 8048202 Astrid Thorsen
+L
+X 5038202
+A 2948302 Olamide Bello
+X 9948102
+A 7948202 Emre Yilmaz
+A 3948102 Chiamaka Eze
+L
+X 6048102
+X 4038202
+A 9048302 Sigrid Magnusson
+A 5948402 Adaeze Obi
+L
+X 8038302
+A 1038292 Kweku Mensah
+X 2948202
+A 6948202 Miriam Novak
+L
+X 9038202
+A 4948402 Emeka Obi
+X 7048102
+A 2048302 Ingrid Halvorsen
+A 7948102 Chiamaka Nze
+L
+X 5038102
+X 3948302
+A 8948302 Babajide Eze
+A 1948202 Tae-yang Park
+L
+X 6938102
+A 5048302 Adanna Okafor
+X 4948202
+A 3048402 Nikolai Petrov
+L
+X 7948302
+A 9948202 Emeka Osei
+X 2048102
+A 6048302 Freya Magnusson
+A 4048202 Ngozi Eze
+L
+X 9948302
+X 1038192
+A 8048302 Alejandro Vargas
+A 2948102 Yusuf Bello
+L
+X 1948302
+A 7048202 Chidinma Obi
+X 3948102
+A 5948502 Astrid Sorensen
+L
+X 6048202
+A 3048102 Olamide Eze
+X 1948202
+A 9048202 Emre Arslan
+A 4948102 Chiamaka Osei
+L
+X 8948302
+X 5048302
+A 6948302 Sigrid Petrov
+A 1038392 Kwabena Obi
+L
+X 4048102
+A 7948402 Adaeze Nze
+X 2948302
+A 2048402 Ingeborg Bjork
+L
+X 9948202
+A 5048402 Emeka Eze
+X 7948102
+A 3948402 Chibueze Okafor
+A 8948202 Miriam Magnusson
+L
+X 6048302
+X 4948102
+A 9048402 Babatunde Obi
+A 1948402 Toshiro Suzuki
+L
+X 5948502
+A 4048302 Adanna Eze
+X 3048102
+A 6948402 Nikoleta Sorensen
+L
+X 8048302
+A 2948402 Emeka Nze
+X 9048202
+A 7048302 Freyr Magnusson
+A 5048502 Ngozi Obi
+L
+X 4948402
+X 1038392
+A 8048402 Alejandra Cruz
+A 3948202 Yuki Tanaka
+L
+X 6948302
+A 9948402 Chidinma Eze
+X 4048302
+A 1948502 Astrid Petrov
+L
+X 7948402
+A 5948302 Olamide Okafor
+X 2048402
+A 3048502 Emre Bello
+A 6048402 Chiamaka Nze
+L
+X 9048402
+X 8948202
+A 4048402 Sigrid Bjork
+A 2948502 Kweku Obi
+L
+X 1948402
+A 7048402 Adaeze Osei
+X 5048402
+A 8048502 Ingeborg Magnusson
+L
+X 3948402
+A 9948502 Emeka Okafor
+X 6948402
+A 4948502 Chibueze Eze
+A 1038492 Miriam Petrov
+L
+X 5048502
+X 9048402
+A 3048302 Babajide Nze
+A 6948502 Tae-yang Kim
+L
+X 8048402
+A 2048502 Adanna Obi
+X 4048402
+A 7948502 Nikolai Magnusson
+L
+X 9948402
+A 5948602 Alejandro Morales
+X 1948502
+A 3948502 Yusuf Eze
+A 8948502 Chidinma Okafor
+L
+X 6048402
+X 2948502
+A 4048502 Emeka Bjork
+A 1948602 Astrid Obi
+L
+X 7048402
+A 9048502 Olamide Nze
+X 8048502
+A 5048602 Kwabena Magnusson
+L
+X 4948502
+A 2948602 Adaeze Petrov
+X 1038492
+A 6948602 Freya Osei
+A 3048602 Chiamaka Eze
+L
+X 3948502
+X 9948502
+A 7048502 Sigrid Nze
+A 8948602 Toshiro Honda
+L
+X 5948602
+A 4048602 Adanna Magnusson
+X 6948502
+A 1948702 Emeka Obi
+L
+X 2048502
+A 9048602 Chibueze Petrov
+X 7948502
+A 6048502 Miriam Bjork
+A 3948602 Babatunde Eze
+L
+X 8948502
+X 4048502
+A 5048702 Alejandra Reyes
+A 2948702 Yuki Yamamoto
+L
+X 1948602
+A 7948602 Chidinma Nze
+X 9048502
+A 4948602 Astrid Magnusson
+L
+X 6048502
+A 8048602 Olamide Osei
+X 3048602
+A 1038592 Kweku Eze
+A 5948702 Emre Petrov
+L
+X 7048502
+X 2948602
+A 9948602 Chiamaka Obi
+A 3948702 Ingeborg Nze
+L
+X 4048602
+A 6948702 Adaeze Bjork
+X 8948602
+A 2048602 Nikolai Okafor
+L
+X 5048702
+A 7948702 Chibueze Magnusson
+X 1948702
+A 4948702 Miriam Eze
+A 8948702 Babajide Petrov
+L
+X 9048602
+X 6048602
+A 1948802 Tae-yang Lee
+A 5948802 Alejandro Santos
+L
+X 3948702
+A 2948802 Adanna Osei
+X 7948602
+A 9948702 Freyr Nze
+L
+X 4948602
+A 6948802 Emeka Magnusson
+X 1038592
+A 3948802 Chidinma Bjork
+A 7048602 Sigrid Eze
+L
+X 8048602
+X 5948802
+A 4048702 Kwabena Petrov
+A 1948902 Astrid Okafor
+L
+X 2048602
+A 8948802 Olamide Magnusson
+X 9948602
+A 5048802 Adaeze Nze
+L
+X 6948702
+A 3048702 Chiamaka Petrov
+X 2948802
+A 9048702 Emre Bjork
+A 4948802 Miriam Osei
+L
+X 7948702
+X 1948802
+A 6048702 Babatunde Nze
+A 2948902 Toshiro Ito
+L
+X 8948702
+A 5948902 Chidinma Magnusson
+X 4048702
+A 1038692 Alejandra Gomez
+L
+X 9948702
+A 7948802 Adanna Eze
+X 3948802
+A 3948802 Nikolai Bjork
+A 8048702 Kweku Okafor
+L
+X 5048802
+X 6948802
+A 4048802 Emeka Petrov
+A 9948802 Ingeborg Osei
+L
+X 2948902
+A 6048802 Chibueze Nze
+X 1948902
+A 1948902 Freya Eze
+A 5948802 Miriam Magnusson
+L
+X 3048702
+X 7948802
+A 2048702 Babajide Bjork
+A 7048702 Sigrid Okafor
+L
+X 8948802
+A 4948902 Tae-yang Choi
+X 4048802
+A 9048802 Alejandro Diaz
+L
+X 9948802
+A 3948902 Adaeze Magnusson
+X 6048802
+A 6948902 Emeka Nze
+A 1038792 Chidinma Petrov
+L
+X 2048702
+X 5948902
+A 8048802 Olamide Bjork
+A 4048902 Kwabena Osei
+L
+X 7048702
+A 2948802 Chiamaka Eze
+X 1948902
+A 7948902 Miriam Nze
+L
+X 3948902
+A 5048902 Babatunde Magnusson
+X 9048802
+A 9948902 Adanna Bjork
+A 3048802 Nikolai Eze
+L
+X 6948902
+X 1038792
+A 1948802 Emre Okafor
+A 6048902 Toshiro Kato
+L
+X 8048802
+A 4948802 Alejandra Perez
+X 2948802
+A 2048802 Kweku Nze
+L
+X 7948902
+A 8948902 Chibueze Magnusson
+X 5048902
+A 5948802 Ingeborg Eze
+A 9948802 Freyr Bjork
+L
+X 9948902
+X 4048902
+A 3948802 Emeka Osei
+A 7048802 Sigrid Petrov
+L
+X 1948802
+A 4948802 Adaeze Nze
+X 6048902
+A 6948802 Miriam Magnusson
+L
+X 2048802
+A 8948802 Babajide Okafor
+X 8948902
+A 1938802 Chidinma Eze
+A 5948902 Kwabena Bjork
+L
+X 3948802
+X 7048802
+A 9048902 Olamide Petrov
+A 2948902 Tae-yang Shin
+L
+X 4948802
+A 7948802 Alejandro Flores
+X 1938802
+A 3048902 Chiamaka Nze
+L
+X 6948802
+A 1048902 Emeka Magnusson
+X 5948902
+A 8048902 Adanna Bjork
+A 4048802 Miriam Osei
+L
+X 9048902
+X 2948902
+A 6048802 Babatunde Eze
+A 5048802 Nikolai Petrov
+L
+X 7948802
+A 2048902 Toshiro Kimura
+X 3048902
+A 9948802 Alejandra Lopez
+L
+X 1048902
+A 4948902 Kweku Magnusson
+X 8048902
+A 7048902 Chibueze Nze
+A 3948902 Ingeborg Bjork
+L
+X 4048802
+X 6048802
+A 8948802 Freya Okafor
+A 1948902 Emre Petrov
+L
+X 5048802
+A 6948902 Adaeze Eze
+X 2048902
+A 2948802 Sigrid Magnusson
+L
+X 9948802
+A 5948802 Babajide Nze
+X 4948902
+A 9048802 Miriam Bjork
+A 4048902 Chidinma Osei
+L
+X 7048902
+X 3948902
+A 1038882 Olamide Eze
+A 6048902 Kwabena Petrov
+L
+X 8948802
+A 3048802 Alejandro Reyes
+X 1948902
+A 7948902 Chiamaka Magnusson
+L
+X 2948802
+A 5048902 Emeka Nze
+X 6948902
+A 8048802 Adanna Bjork
+A 2048802 Nikolai Okafor
+L
+X 1038882
+X 9048802
+A 4948802 Tae-yang Han
+A 6948802 Toshiro Sato
+L
+X 4048902
+A 9948902 Alejandra Torres
+X 3048802
+A 1948802 Kweku Eze
+L
+X 7948902
+A 5948902 Chibueze Petrov
+X 5048902
+A 3948802 Ingeborg Nze
+A 8948902 Freyr Magnusson
+L
+X 2048802
+X 6048902
+A 7048802 Emre Bjork
+A 4048802 Adaeze Osei
+L
+X 9948902
+A 2948902 Sigrid Eze
+X 4948802
+A 6948802 Babatunde Petrov
+L
+X 1948802
+A 5948802 Miriam Nze
+X 7048802
+A 9048902 Chidinma Magnusson
+A 3048902 Olamide Bjork
+L
+X 6948802
+X 8948902
+A 1038982 Kwabena Eze
+A 8048902 Alejandro Mendez
+L
+X 4048802
+A 2048902 Chiamaka Petrov
+X 3948802
+A 7948802 Emeka Nze
+L
+X 5948802
+A 4948902 Adanna Magnusson
+X 9048902
+A 6048802 Nikolai Bjork
+A 1948902 Toshiro Fujita
+L
+X 3048902
+X 1038982
+A 8948802 Alejandra Sanchez
+A 5048802 Kweku Petrov
+L
+X 7048802
+A 2948802 Chibueze Eze
+X 4948902
+A 9948802 Ingeborg Magnusson
+L
+X 6048802
+A 3948902 Freya Nze
+X 8048902
+A 7048902 Emre Bjork
+A 4048902 Adaeze Okafor
+L
+X 2048902
+X 1948902
+A 5948902 Sigrid Petrov
+A 9048802 Babatunde Eze
+L

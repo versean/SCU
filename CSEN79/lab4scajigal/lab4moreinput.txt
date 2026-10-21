@@ -1,0 +1,99 @@
+A 5831947 Priya Nakamura
+A 2947381 Felix Okonkwo
+L
+A 9182736 Lucia Ferreira
+X 9182736
+A 3746251 Damien Holloway
+A 8561029 Yuki Tanaka
+A 4920817 Celeste Dupont
+L
+X 4920817
+X 3746251
+A 7364850 Rajan Mehta
+A 5018293 Ingrid Solberg
+A 6273041 Marcus Webb
+A 3891475 Thalia Osei
+X 5831947
+A 7502836 Kieran Frost
+L
+A 4163729 Amara Diallo
+X 7502836
+X 2947381
+A 9047382 Soren Lindqvist
+A 2584610 Valentina Cruz
+L
+A 6819203 Tobias Eckhardt
+A 3072946 Nadia Petrov
+X 6819203
+A 5438167 Elias Mbeki
+L
+X 9047382
+A 8203574 Sienna Calloway
+A 4756928 Omar Rashid
+A 7139045 Freya Holt
+X 4163729
+X 5018293
+L
+A 2968413 Cyrus Tavares
+A 5824706 Imani Sutton
+A 6401839 Hugo Villarreal
+L
+A 3517264 Anika Johansson
+X 3072946
+A 9230185 Luca Bianchi
+X 6273041
+L
+A 4082637 Zara Ashford
+A 7645920 Brennan Tully
+A 5391074 Mina Hadley
+X 8203574
+L
+X 4756928
+X 3891475
+A 8716432 Raphael Guerrero
+L
+A 3264508 Skye Delacroix
+A 6958301 Winston Okafor
+X 7139045
+X 5438167
+A 4539862 Darya Morozova
+L
+X 2968413
+A 7823046 Caio Almeida
+A 2741593 Hana Kimura
+L
+X 5824706
+X 7645920
+A 5067284 Leandro Vega
+A 9384710 Astrid Magnusson
+X 9230185
+L
+A 6130495 Josiah Pennington
+X 6401839
+X 4082637
+L
+X 3517264
+X 6958301
+A 6625807 Carmelo Mcclain
+A 4181514 Neymar Cosby
+L
+X 5391074
+A 4827503 Zain Hoang
+X 8716432
+L
+X 3264508
+X 2741593
+A 7396176 Jaylee Marlow
+L
+X 4539862
+X 7823046
+A 3934558 Anjali Kopp
+A 4410740 Emmanuella Garland
+L
+X 6130495
+A 7060922 Darius Schulte
+L
+X 6625807
+X 4181514
+X 4827503
+L

@@ -1,0 +1,210 @@
+Run these commands ------
+make cardtest
+./cardtest
+-------------------------
+
+No input.
+Expected output:
+Card Testing
+♠2♠3♠4♠5♠6♠7♠8♠9♠10♠J♠Q♠K♠A
+♥2♥3♥4♥5♥6♥7♥8♥9♥10♥J♥Q♥K♥A
+♦2♦3♦4♦5♦6♦7♦8♦9♦10♦J♦Q♦K♦A
+♣2♣3♣4♣5♣6♣7♣8♣9♣10♣J♣Q♣K♣A
+
+
+
+Run these commands ------
+make decktest
+./decktest
+-------------------------
+
+No input.
+Expected output:
+Fresh deck: 
+♠2♠3♠4♠5♠6♠7♠8♠9♠10♠J♠Q♠K♠A
+♥2♥3♥4♥5♥6♥7♥8♥9♥10♥J♥Q♥K♥A
+♦2♦3♦4♦5♦6♦7♦8♦9♦10♦J♦Q♦K♦A
+♣2♣3♣4♣5♣6♣7♣8♣9♣10♣J♣Q♣K♣A
+
+Shuffle then deal 260 cards
+ 1: ♣3♣J♣8♠K♣A♠8♥J♥6♥9♦J♥8♠A♦K
+ 2: ♥4♣K♠J♠2♣10♦2♣6♥K♦4♦Q♣5♠4♦10
+ 3: ♣9♠10♥5♦9♣7♦3♠5♣2♦7♠Q♦5♦A♥Q
+ 4: ♠9♠7♠3♣4♥2♥10♥7♥A♠7♦8♥7♠A♦6
+ 5: ♥J♦Q♣10♥K♠Q♣6♦K♦A♠J♥3♦J♣3♠6
+ 6: ♣9♥2♠4♥5♦5♣4♣8♦7♥A♥9♠2♣2♥10
+ 7: ♠10♠K♠9♦3♥8♦9♥Q♣5♥6♠8♣J♠3♥4
+ 8: ♦4♦2♦10♠8♠5♦2♦K♣7♦Q♦5♠6♠4♥8
+ 9: ♥2♦A♥Q♦J♣K♠Q♠7♣A♥A♥4♣8♠2♦9
+10: ♠3♥7♦3♦10♥K♣3♠9♦4♥9♠A♥6♠10♣6
+11: ♣2♣5♣4♣10♥J♦8♣J♠J♥5♣9♦7♥J♠K
+12: ♣9♦A♥10♦5♦9♣A♣8♣6♥4♥Q♣5♠Q♥3
+13: ♥8♠8♦6♦10♠J♥7♣3♣2♣J♦2♠10♦7♠4
+14: ♠7♥6♥5♥K♦K♣10♥9♥2♠9♣4♠3♠6♦Q
+15: ♠5♦8♦J♠2♥A♦3♦Q♠A♥A♥Q♦4♦9♣2
+16: ♦6♥7♥2♠J♣5♣4♥8♣K♣6♥J♣7♦7♦J
+17: ♦2♠7♠9♦8♣9♥9♦3♣8♠8♣10♠2♠4♦A
+18: ♠6♥K♥4♥6♠3♣J♣A♦5♠K♠5♠Q♣3♦10
+19: ♠10♦5♦K♦10♣5♥5♣2♠9♣7♦2♥4♦J♣4
+20: ♠3♣6♥3♥2♦Q♥10♦3♠Q♣9♠8♥6♠5♥A
+
+
+
+Run these commands ------
+make pokertest
+./pokertest <number of hands to deal>
+-------------------------
+
+Positive case: ./pokertest 100
+Sample hand for each Rank:
+            ♣J♠10♠9♣7♦3 High Card
+            ♠A♥6♣5♣2♦2 Pair
+            ♦9♣8♥8♦3♥3 Two Pairs
+            ♣A♣9♣8♣7♣2 Flush
+            ♠7♠6♥5♠4♥3 Straight
+            ♠J♦9♦7♥7♠7 Triple
+            ♠7♠6♠5♠4♠3 Straight Flush
+            ♣A♣9♦9♥9♠9 Four of a Kind
+            ♦Q♥Q♠Q♣2♠2 Full House
+
+Statistics:
+Dealt 100 hands. Elapsed Time: 5.5e-05 seconds.
+Average 0.0275 seconds per 50k hands
+ Straight Flush:         0   0.00%
+ Four of a Kind:         0   0.00%
+     Full House:         0   0.00%
+          Flush:         0   0.00%
+       Straight:         0   0.00%
+         Triple:         1   1.00%
+      Two Pairs:         9   9.00%
+           Pair:        31  31.00%
+      High Card:        59  59.00%
+
+Positive case: ./pokertest 500
+Sample hand for each Rank:
+            ♣9♦8♥7♥6♦3 High Card
+            ♦J♥10♠10♦9♠6 Pair
+            ♦10♥10♥7♦5♠5 Two Pairs
+            ♦K♦Q♦10♦5♦3 Flush
+            ♣Q♦Q♥Q♥9♣8 Triple
+            ♥K♥Q♥J♥10♥9 Straight Flush
+            ♦Q♠J♠10♠9♠8 Straight
+            ♦8♥8♠8♦5♥5 Full House
+            ♣K♦K♥K♠K♠4 Four of a Kind
+
+Statistics:
+Dealt 500 hands. Elapsed Time: 0.000226 seconds.
+Average 0.0226 seconds per 50k hands
+ Straight Flush:         1   0.20%
+ Four of a Kind:         0   0.00%
+     Full House:         1   0.20%
+          Flush:         3   0.60%
+       Straight:         2   0.40%
+         Triple:         9   1.80%
+      Two Pairs:        20   4.00%
+           Pair:       231  46.20%
+      High Card:       233  46.60%
+
+Negative case: ./pokertest -1
+Sample hand for each Rank:
+            ♦A♠A♣K♣8♠4 Pair
+            ♠J♥10♣9♠8♠2 High Card
+            ♦K♠K♣6♦6♣2 Two Pairs
+            ♠A♦9♦3♥3♠3 Triple
+            ♠J♥10♦9♠8♣7 Straight
+            ♠8♠7♠6♠5♠4 Straight Flush
+            ♦Q♦6♦5♦4♦3 Flush
+            ♣A♦A♦8♥8♠8 Full House
+            ♠A♣J♦J♥J♠J Four of a Kind
+
+Statistics:
+Dealt -1 hands. Elapsed Time: 0 seconds.
+Average -0 seconds per 50k hands
+ Straight Flush:         0  -0.00%
+ Four of a Kind:         0  -0.00%
+     Full House:         0  -0.00%
+          Flush:         0  -0.00%
+       Straight:         0  -0.00%
+         Triple:         0  -0.00%
+      Two Pairs:         0  -0.00%
+           Pair:         0  -0.00%
+      High Card:         0  -0.00%
+
+Negative case: ./pokertest -10
+Sample hand for each Rank:
+            ♥Q♦10♥8♦7♥5 High Card
+            ♦A♠9♣6♥6♦5 Pair
+            ♠Q♦5♠5♥3♠3 Two Pairs
+            ♠A♣9♦6♥6♠6 Triple
+            ♦A♥A♠A♦8♥8 Full House
+            ♠A♠J♠8♠5♠3 Flush
+            ♦6♠5♠4♠3♠2 Straight
+            ♦J♦10♦9♦8♦7 Straight Flush
+            ♣A♦A♥A♠A♣7 Four of a Kind
+
+Statistics:
+Dealt -10 hands. Elapsed Time: 1e-06 seconds.
+Average -0.005 seconds per 50k hands
+ Straight Flush:         0  -0.00%
+ Four of a Kind:         0  -0.00%
+     Full House:         0  -0.00%
+          Flush:         0  -0.00%
+       Straight:         0  -0.00%
+         Triple:         0  -0.00%
+      Two Pairs:         0  -0.00%
+           Pair:         0  -0.00%
+      High Card:         0  -0.00%
+
+Boundary case: ./pokertest 0
+Sample hand for each Rank:
+            ♦K♦Q♠Q♠J♠4 Pair
+            ♣Q♣6♥5♥4♣3 High Card
+            ♣K♦K♠K♣J♣8 Triple
+            ♣7♥7♦6♠6♦2 Two Pairs
+            ♣J♦J♥J♣7♥7 Full House
+            ♣K♣J♣10♣6♣5 Flush
+            ♠7♠6♦5♦4♠3 Straight
+            ♥10♣9♦9♥9♠9 Four of a Kind
+            ♣7♣6♣5♣4♣3 Straight Flush
+
+Statistics:
+Dealt 0 hands. Elapsed Time: 0 seconds.
+Average -nan seconds per 50k hands
+ Straight Flush:         0   -nan%
+ Four of a Kind:         0   -nan%
+     Full House:         0   -nan%
+          Flush:         0   -nan%
+       Straight:         0   -nan%
+         Triple:         0   -nan%
+      Two Pairs:         0   -nan%
+           Pair:         0   -nan%
+      High Card:         0   -nan%
+
+Boundary case: ./pokertest 10000000
+Sample hand for each Rank:
+            ♣K♦10♠5♦3♥3 Pair
+            ♠A♠9♠7♥5♥4 High Card
+            ♦8♣7♦6♦5♣4 Straight
+            ♣K♦K♣10♥10♦5 Two Pairs
+            ♥K♦10♥10♠10♦8 Triple
+            ♠9♠8♠7♠6♠5 Straight Flush
+            ♥A♥8♥6♥5♥2 Flush
+            ♣Q♥Q♠Q♣5♠5 Full House
+            ♣9♦9♥9♠9♦6 Four of a Kind
+
+Statistics:
+Dealt 10000000 hands. Elapsed Time: 4.45132 seconds.
+Average 0.0222566 seconds per 50k hands
+ Straight Flush:        35   0.00%
+ Four of a Kind:      1937   0.02%
+     Full House:     24305   0.24%
+          Flush:     11360   0.11%
+       Straight:     29733   0.30%
+         Triple:    250344   2.50%
+      Two Pairs:    493913   4.94%
+           Pair:   4382102  43.82%
+      High Card:   4806271  48.06%
+
+
+
+Use "make clean" to clean up compiled files

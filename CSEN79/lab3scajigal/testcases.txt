@@ -1,0 +1,325 @@
+"make rostertest" in terminal to compile!!!
+
+POSITIVE CASE:
+To run: ./rostertest < lab3sampleinput.txt
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 06184953, Name: Israel Seay
+3: ID: 05206281, Name: Maryam Whittaker
+4: ID: 04445543, Name: Bruno Haddad
+5: ID: 05214769, Name: Armani Lindberg
+6: ID: 04789469, Name: Jaslyn Hoover
+7: ID: 04231027, Name: Andres Ratcliff
+8: ID: 07337401, Name: Stephen Corbin
+9: ID: 03846009, Name: Matilda Finney
+10: ID: 05605535, Name: Issac Lemons
+11: ID: 07515575, Name: Oliver Muniz
+12: ID: 06983035, Name: Issac Wyatt
+13: ID: 04352812, Name: Eve Elam
+14: ID: 07487480, Name: Brody Odell
+15: ID: 06002675, Name: Jordan Rowe
+16: ID: 03515951, Name: Samiya Purcell
+17: ID: 05155225, Name: Hendy Winslow
+18: ID: 05940738, Name: Ismael Grogan
+19: ID: 05659490, Name: Milan Goddard
+20: ID: 04301631, Name: Jair Smallwood
+21: ID: 06407728, Name: Hayden Doss
+22: ID: 04337681, Name: Izaiah Vick
+23: ID: 06206360, Name: Tiffany Guy
+24: ID: 07680334, Name: Khaleesi Brewster
+25: ID: 05767266, Name: Kailyn Vines
+26: ID: 06037934, Name: Dilan Hail
+27: ID: 03483598, Name: Sonny Nadeau
+28: ID: 04980786, Name: Asher Alston
+29: ID: 03281091, Name: Malaysia Burke
+30: ID: 05160499, Name: Maximus Santillan
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+Roster iterator exceeded range: 30
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 06184953, Name: Israel Seay
+3: ID: 05206281, Name: Maryam Whittaker
+4: ID: 04445543, Name: Bruno Haddad
+5: ID: 05214769, Name: Armani Lindberg
+6: ID: 03483598, Name: Sonny Nadeau
+7: ID: 04231027, Name: Andres Ratcliff
+8: ID: 07337401, Name: Stephen Corbin
+9: ID: 05160499, Name: Maximus Santillan
+10: ID: 05605535, Name: Issac Lemons
+11: ID: 07515575, Name: Oliver Muniz
+12: ID: 06983035, Name: Issac Wyatt
+13: ID: 04352812, Name: Eve Elam
+14: ID: 07487480, Name: Brody Odell
+15: ID: 06002675, Name: Jordan Rowe
+16: ID: 03515951, Name: Samiya Purcell
+17: ID: 04980786, Name: Asher Alston
+18: ID: 05940738, Name: Ismael Grogan
+19: ID: 05659490, Name: Milan Goddard
+20: ID: 04301631, Name: Jair Smallwood
+21: ID: 03281091, Name: Malaysia Burke
+22: ID: 04337681, Name: Izaiah Vick
+23: ID: 06206360, Name: Tiffany Guy
+24: ID: 07680334, Name: Khaleesi Brewster
+25: ID: 05767266, Name: Kailyn Vines
+26: ID: 06037934, Name: Dilan Hail
+27: ID: 04996076, Name: Cooper Crum
+28: ID: 07664206, Name: Eddie Archer
+29: ID: 07814075, Name: Bryce Griggs
+30: ID: 04601853, Name: Mason Mccabe
+
+POSITIVE CASE:
+To run: ./rostertest < lab3input4.txt
+Good, because we want to ignore non-command lines (in this case, "blah blah blah").
+
+NEGATIVE CASE:
+To run: ./rostertest > test.txt
+Will get stuck in execution b/c > is the wrong operator to use (no file input). Instead, will output a blank file.
+
+NEGATIVE CASE:
+To run: ./rostertest < nonexistantfile.txt
+Outputs: bash: nonexistantfile.txt: No such file or directory
+
+BOUNDARY CASE:
+To run: ./rostertest < lab3input2.txt
+Should output nothing, since lab3input2.txt is empty
+
+BOUNDARY CASE:
+To run: ./rostertest < lab3input3.txt
+Outputs: a lot of "Roster iterator exceeded range: 30"
+... then ...
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+---- Current Roster ----
+1: ID: 03413623, Name: Savannah Rider
+2: ID: 03413623, Name: Savannah Rider
+3: ID: 03413623, Name: Savannah Rider
+4: ID: 03413623, Name: Savannah Rider
+5: ID: 03413623, Name: Savannah Rider
+6: ID: 03413623, Name: Savannah Rider
+7: ID: 03413623, Name: Savannah Rider
+8: ID: 03413623, Name: Savannah Rider
+9: ID: 03413623, Name: Savannah Rider
+10: ID: 03413623, Name: Savannah Rider
+11: ID: 03413623, Name: Savannah Rider
+12: ID: 03413623, Name: Savannah Rider
+13: ID: 03413623, Name: Savannah Rider
+14: ID: 03413623, Name: Savannah Rider
+15: ID: 03413623, Name: Savannah Rider
+16: ID: 03413623, Name: Savannah Rider
+17: ID: 03413623, Name: Savannah Rider
+18: ID: 03413623, Name: Savannah Rider
+19: ID: 03413623, Name: Savannah Rider
+20: ID: 03413623, Name: Savannah Rider
+21: ID: 03413623, Name: Savannah Rider
+22: ID: 03413623, Name: Savannah Rider
+23: ID: 03413623, Name: Savannah Rider
+24: ID: 03413623, Name: Savannah Rider
+25: ID: 03413623, Name: Savannah Rider
+26: ID: 03413623, Name: Savannah Rider
+27: ID: 03413623, Name: Savannah Rider
+28: ID: 03413623, Name: Savannah Rider
+29: ID: 03413623, Name: Savannah Rider
+30: ID: 03413623, Name: Savannah Rider
+
+(7 printings of current roster since the L command was called 7 times)
